@@ -1,1 +1,22 @@
-body{background-color: aqua;}
+#logo{
+    position: relative;
+    height:150px ;
+    width: 150px;
+    background-color: aqua;
+    display: inline-block;
+
+}
+#name{
+    position: absolute;
+    display: inline-block;
+    left: 180px;
+    color: cadetblue;
+    font-size:30px;
+}
+#topColumn{
+    position: absolute;
+    display: inline-block;
+    left: 1500px;
+    font-size: 40px;
+   top: 60px;
+}
